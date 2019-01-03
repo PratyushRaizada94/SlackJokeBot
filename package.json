@@ -1,0 +1,15 @@
+{
+  "name": "slackjokebot",
+  "version": "1.0.0",
+  "description": "SlackBot that tells random jokes",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Pratyush Raizada",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "slackbots": "^1.2.0"
+  }
+}
